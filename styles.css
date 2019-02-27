@@ -1,0 +1,37 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 6em;
+    
+}
+
+table {
+    border: 1px solid #000;
+    width: 100%;
+    
+}
+
+tr:nth-child(even) {
+    background: #7692ff;
+}
+tr:nth-child(odd){
+    background: #abd2fa;
+}
+
+th {
+    background-color: #091540;
+    color: #ffffff;
+}
+
+h2{
+    text-shadow: 2px 2px 1px  #091540;
+    color: #666;
+ } 
+
+.etiqueta {
+    width: 20%;
+}
